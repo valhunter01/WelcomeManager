@@ -1,0 +1,6 @@
+name: WelcomeManager
+version: '1.0'
+main: me.VAL.welcomeManager.WelcomeManager
+api-version: '1.21'
+author: [VALHUNTER]
+description: A crazy welcome manager.

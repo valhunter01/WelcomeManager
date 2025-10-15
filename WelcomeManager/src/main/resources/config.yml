@@ -1,0 +1,19 @@
+FirstJoin:
+  Toggle: true # turn on or off
+  Message: '#025b88Welcome to my server for the first time.'
+
+Join:
+  Toggle: true
+  Message: '#6FE522Welcome to my server!'
+
+Title:
+  Toggle: true
+  Message: "#226FE5Welcome to My server"
+  Subtitle: ""
+
+Firework:
+  toggle: true
+
+Broadcast:
+  toggle: true
+  message: '#DA1551{player} has joined our server!'
